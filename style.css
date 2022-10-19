@@ -52,7 +52,7 @@ body{
 .figure:hover{
     opacity: 0.8;
 }
-.container1{
-    display:flex; 
-    justify-content:space-between;
+
+.msn1{
+   display:flex !important;
 }
